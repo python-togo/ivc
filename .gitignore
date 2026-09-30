@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+.env
+.vscode/
+token.json
+credentials.json
+*.pdf
+*email_template.py
